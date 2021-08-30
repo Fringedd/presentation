@@ -48,7 +48,7 @@
     margin:0;
     height: 100vh;
     overflow: hidden;
-    background-image: url(./images/dbp0pi2-94d4d9a7-15a5-42b1-8001-e37c04445557.jpg);
+    background-image: url(dbp0pi2-94d4d9a7-15a5-42b1-8001-e37c04445557.jpg);
     color: #fff;
     background-repeat: no-repeat;
     background-size: cover;
@@ -99,7 +99,7 @@
     right: 5vw;
     border: #f8b700 solid 2px;
     filter: brightness(150%);
-    background-image: url(./images/sitenav_bar_bg.1cca88a29ce01adda20ee8c950595c3e.webp);
+    background-image: url(sitenav_bar_bg.1cca88a29ce01adda20ee8c950595c3e.webp);
     box-shadow: 0 2px 4px rgb(0 0 0 / 50%);
     -webkit-animation:bounce 3s infinite;
     -moz-animation:bounce 3s infinite;
@@ -182,7 +182,7 @@
     display: block;
   }
   #two .container2{
-    background-image: url(./images/component.jpg);
+    background-image: url(component.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -238,7 +238,7 @@
   }
   
   #two .content {
-    background-image: url(./images/808726.jpg);
+    background-image: url(808726.jpg);
     background-size: cover;
     width:100%;
     height:100%;
@@ -321,7 +321,7 @@
   }
 
   #two .ornament{
-    background: url(./images/Picture5.png) 50% 0 repeat-x;
+    background: url(Picture5.png) 50% 0 repeat-x;
     font-size: 1.5rem;
     color:#f8b700;
     text-align: center;
@@ -358,7 +358,7 @@
   -webkit-box-shadow: 0 0 16px 6px rgb(0 0 0 / 50%);
   box-shadow: 0 0 16px 6px rgb(0 0 0 / 50%);
   border: 12px solid #ebdec2;
-  border-image: url(./images/Box-paper.de3476115a6c7796c6e9e07f61a160cc.png) 12 repeat;
+  border-image: url(Box-paper.de3476115a6c7796c6e9e07f61a160cc.png) 12 repeat;
   border-image-outset: 3px;
   padding: 15px;
 }
@@ -395,7 +395,7 @@
 }
 
   #four .content {
-    background-image: url(./images/9FFOWMNEHL4Z1457037542356.jpg);
+    background-image: url(9FFOWMNEHL4Z1457037542356.jpg);
       background-size: cover;
       width:100%;
       height:100vh;
@@ -422,7 +422,7 @@
   -webkit-box-shadow: 0 0 16px 6px rgb(0 0 0 / 50%);
   box-shadow: 0 0 16px 6px rgb(0 0 0 / 50%);
   border: 12px solid #ebdec2;
-  border-image: url(./images/Box-paper.de3476115a6c7796c6e9e07f61a160cc.png) 12 repeat;
+  border-image: url(Box-paper.de3476115a6c7796c6e9e07f61a160cc.png) 12 repeat;
   border-image-outset: 3px;
   padding: 15px;
 }
@@ -589,7 +589,7 @@
     
   }
   #five .content {
-    background-image: url(./images/patience_by_nicili_dbsd9zl-fullview.png);
+    background-image: url(patience_by_nicili_dbsd9zl-fullview.png);
       background-size: cover;
       width:100%;
       filter: brightness(110%);
@@ -619,7 +619,7 @@
   -webkit-box-shadow: 0 0 16px 6px rgb(0 0 0 / 50%);
   box-shadow: 0 0 16px 6px rgb(0 0 0 / 50%);
   border: 12px solid #ebdec2;
-  border-image: url(./images/Box-paper.de3476115a6c7796c6e9e07f61a160cc.png) 12 repeat;
+  border-image: url(Box-paper.de3476115a6c7796c6e9e07f61a160cc.png) 12 repeat;
   border-image-outset: 3px;
   padding: 15px;
 }
